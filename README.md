@@ -1,1 +1,1 @@
-ARCHITECTURE micro-services
+SQUELETTE d'architecture micro-services
